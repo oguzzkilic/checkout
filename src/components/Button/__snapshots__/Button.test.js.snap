@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button Component Tests renders correctly 1`] = `
+.c0 {
+  font-weight: normal;
+  font-family: 'Source Sans Pro',Helvetica,Arial,sans-serif;
+  border: none;
+  cursor: pointer;
+  outline: none;
+  background: none;
+  border: 1px solid transparent;
+  line-height: 1;
+  display: block;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  vertical-align: middle;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  white-space: nowrap;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  font-size: 16px;
+  border-radius: 100px;
+  width: 100%;
+  text-align: center;
+}
+
+<button
+  className="c0"
+  disabled={false}
+  onClick={[Function]}
+>
+  Click me!
+</button>
+`;

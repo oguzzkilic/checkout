@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AuthMessage Component Tests renders correctly 1`] = `
+.c0 {
+  margin-top: 1em;
+  margin-bottom: 2em;
+  text-align: left;
+  font-size: 12px;
+  line-height: 1.6;
+}
+
+<div
+  className="c0"
+>
+  Message from world
+</div>
+`;

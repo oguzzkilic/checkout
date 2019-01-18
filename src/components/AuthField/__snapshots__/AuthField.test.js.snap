@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AuthField Component Tests renders correctly 1`] = `
+.c0 {
+  width: 100%;
+  padding-bottom: 30px;
+  position: relative;
+}
+
+.c2 {
+  width: 100%;
+  font-family: width:100%;
+  height: 40px;
+  border-radius: 3px;
+  padding: 0 0.71em;
+  font-size: 14px;
+  font-weight: bold;
+  border: solid 1px;
+  outline: none;
+}
+
+.c1 {
+  font-family: Arial;
+  font-size: 14px;
+  padding-bottom: 10px;
+  display: block;
+}
+
+<div
+  className="c0"
+>
+  <label
+    className="c1"
+  >
+    
+  </label>
+  <input
+    className="c2"
+    onBlur={[Function]}
+    onClick={[MockFunction]}
+    onFocus={[Function]}
+    type="text"
+  />
+</div>
+`;
