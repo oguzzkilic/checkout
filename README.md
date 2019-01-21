@@ -28,3 +28,6 @@ npm run lint
 - airbnb enzyme (unit test)
 - eslint (JavaScript lint)
 - prettier (code formatter)
+
+## Demo
+https://checkout-form-8khw5rgsy.now.sh
